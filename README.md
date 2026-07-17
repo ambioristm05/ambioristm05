@@ -77,16 +77,6 @@ Backend para recibir formularios, disparar webhooks y organizar mensajes por est
 
 ---
 
-### GitHub stats
-
-<div align="center">
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambioristm05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambioristm05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
 ---
 
 <div align="center">
